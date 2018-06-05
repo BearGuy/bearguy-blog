@@ -1,0 +1,24 @@
+div.blog-post-preview {
+    border-bottom: 2px solid #e6e6e6;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+div.blog-post-preview > h1 > * {
+    font-size: 1.2rem;
+    text-decoration-line: none;
+}
+div.blog-post-preview > h2 {
+    font-size: 0.8rem !important;
+    font-weight: 100 !important;
+}
+
+@media (max-width: 705px){
+    div.blog-post-preview {
+        border-bottom: 2px solid #e6e6e6;
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+}

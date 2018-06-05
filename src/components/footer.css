@@ -1,0 +1,25 @@
+.footerContainer {
+  display: grid;
+}
+
+.footerWrapper {
+  margin-top: 20px;
+  display: grid;
+  justify-self: center;
+  justify-items: center;
+  max-width: 850px;
+}
+
+.contactIconsFooter {
+  display: flex;
+  /* max-width: 250px; */
+  /* grid-columns: 1fr 1fr 1fr 1fr; */
+  margin-bottom: 1.75em;
+  min-width: 200px;
+  justify-content: space-between;
+  justify-self: center;
+}
+
+.footerText {
+  color: #868e96
+}

@@ -1,0 +1,164 @@
+h1 {
+    font-size: 2.5em;
+    line-height: 0.75em;
+    /* margin-top: .5em; */
+}
+
+.profileBackground {
+    display: grid;
+    /* background: #CC0000; */
+    justify-items: center;
+    color: black;
+}
+
+.profileContainer {
+    /* grid-area: profile; */
+    display: grid;
+    grid-gap: 1em;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+    "profileImage"
+    "profileDescription"
+}
+
+.profileImage {
+    background-image: url(../../static/DSC_1044.jpg);
+    background-size: cover;
+    background-position: -55px;
+    border-radius:50% 50% 50% 50%;
+    width:300px;
+    height:300px;
+    justify-self: center;
+    grid-area: profileImage
+}
+
+.profileInfo {
+    display: grid;
+    justify-items: center;
+}
+
+.profileDescription {
+    grid-area: profileDescription;
+    /* align-self: center;
+    justify-self: center; */
+}
+
+.contactIcons {
+    display: flex;
+    max-width: 200px;
+    min-width: 200px;
+    /* grid-columns: 1fr 1fr 1fr 1fr; */
+    justify-content: space-between;
+    justify-self: center;
+}
+
+.homeContainer {
+    display: grid;
+    max-width: 950px;
+    grid-gap: 1.5em;
+    margin: 1em;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas:
+    "profile"
+    "homeBody"
+}
+
+.contentContainer {
+    display: grid;
+    justify-items: center;
+}
+
+.body {
+    grid-area: homeBody;
+}
+
+.skillsContainer {
+    display: grid;
+    grid-gap: 1em;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+
+.skillColumn {
+    display: grid;
+    justify-items: center;
+}
+
+.resumeContainer {
+    display: grid;
+    /* height: 100vh; */
+    margin: 15px;
+    max-width: 950px;
+    grid-gap: 0.25em;
+    grid-template-rows: 1fr;
+}
+
+.blogContainer {
+    display: grid;
+    /* height: 100vh; */
+    /* min-width: 950px;*/
+    max-width: 950px;
+    grid-gap: 1.5em;
+    grid-template-rows: 1fr;
+    justify-items: center;
+}
+
+@media only screen and (min-width: 950px)   {
+    .homeContainer {
+        display: grid;
+        /* height: 100vh; */
+        min-width: 950px;
+        /*max-width: 705px; */
+        grid-gap: 1.5em;
+        grid-template-rows: auto 1fr auto;
+        grid-template-areas:
+        "profile"
+        "homeBody"
+    }
+
+    .resumeContainer {
+        display: grid;
+        /* height: 100vh; */
+        min-width: 950px;
+        /* max-width: 950px; */
+        grid-gap: 0.5em;
+        grid-template-rows: 1fr;
+    }
+
+    .blogContainer {
+        display: grid;
+        /* height: 100vh; */
+        min-width: 950px;
+        /* max-width: 950px; */
+        grid-gap: 1.5em;
+        grid-template-rows: 1fr;
+    }
+
+    .profileContainer {
+        grid-gap: 2em;
+        margin-top: 1em;
+        grid-template-columns: 1fr 2fr;
+        grid-template-areas:
+        "profileImage  profileDescription profileDescription";
+    }
+
+    .profileInfo {
+        height: 60%;
+        align-self: center;
+        justify-items: left;
+    }
+
+    .contactIcons {
+        display: flex;
+        max-width: 200px;
+        /* grid-columns: 1fr 1fr 1fr 1fr; */
+        justify-content: space-between;
+        justify-self: start;
+    }
+
+    .skillsContainer {
+        display: grid;
+        grid-gap: 1em;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 1fr;
+    }
+}
