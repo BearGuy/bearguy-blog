@@ -13,7 +13,7 @@ export default ({posts}) => {
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {
           return (
-          <Link to={post.frontmatter.path} key={post.id}>
+          // <Link to={post.frontmatter.path} key={post.id}>
             <div className="blogPostCard" key={post.id}>
               <div>
                 <img src={post.frontmatter.image} />
@@ -27,7 +27,7 @@ export default ({posts}) => {
                 <p style={{fontWeight: 'normal'}}>{post.excerpt}</p>
               </div>
             </div>
-          </Link>
+          // </Link>
         );
       })}
     </div>
