@@ -12,7 +12,6 @@ export default ({posts}) => {
       {posts
         .filter(post => post.node.frontmatter.title.length > 0)
         .map(({ node: post }) => {
-          console.log(post);
           return (
           <Link to={post.frontmatter.path} key={post.id}>
             <div className="blogPostCard" key={post.id}>

@@ -12,8 +12,6 @@ import ai from '../../static/artificial-intelligence.svg'
 
 export default ({ data }) => {
   const { edges: posts } = data.allMarkdownRemark;
-  // console.log(data)
-  // const IndexPage = () => (
   return (
     <div className="contentContainer">
       <div className="homeContainer">

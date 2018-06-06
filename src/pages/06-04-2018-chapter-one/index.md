@@ -53,7 +53,7 @@ Right now, this is the current plan for where I'll be this summer:
 
 I appreciate you for making it all the way here. Feel free to give me any feedback on my writing and how I can improve, preferably privately.
 
-If you have suggestions of what to do, where to eat, or if you'll be in the area, make sure to reach out to me and let me know! I'm planning on getting out a post every 1 to 2 weeks, and I'll also be posting photos of travels intermitently on my [instagram.](https://instagram.com/s.peterkins)
+If you have suggestions of what to do, where to eat, or if you'll be in the area, make sure to reach out to me and let me know! I'm planning on getting out a post every 1 to 2 weeks, and I'll also be posting photos of travels intermitently on my [Instagram.](https://instagram.com/s.peterkins)
 
 I'll leave you with my favourite saying I heard when I first arrived. Until next time.
 
