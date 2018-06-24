@@ -1,12 +1,14 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+
+import { OutboundLink } from 'gatsby-plugin-google-analytics'
 import BlogList from '../components/BlogList'
 
 import './index.css'
 import '../layouts/index.css'
 
-import 'font-awesome/css/font-awesome.min.css';
+import 'font-awesome/css/font-awesome.min.css'
 import cloud from '../../static/cloud-computing.svg'
 import ai from '../../static/artificial-intelligence.svg'
 
@@ -22,14 +24,14 @@ export default ({ data }) => {
               <h1>Stephen Peterkins</h1>
               <p>Developer | Blockchain | Machine Learning</p>
               <div className="contactIcons">
-                <a href="https://linkedin.com/in/stephen-peterkins" style={{ color: "black"}}>
-                <i style={{fontSize: "2.5em"}} className="fa fa-linkedin"></i></a>
-                <a href="https://github.com/BearGuy" style={{ color: "black"}}>
-                <i style={{fontSize: "2.5em"}} className="fa fa-github"></i></a>
-                <a href="https://instagram.com/s.peterkins" style={{ color: "black"}}>
-                <i style={{fontSize: "2.5em"}} className="fa fa-instagram"></i></a>
-                <a href="https://twitter.com/SPeterkins" style={{ color: "black"}}>
-                <i style={{fontSize: "2.5em"}} className="fa fa-twitter"></i></a>
+                <OutboundLink href="https://linkedin.com/in/stephen-peterkins" style={{ color: "black"}}>
+                <i style={{fontSize: "2.5em"}} className="fa fa-linkedin"></i></OutboundLink>
+                <OutboundLink href="https://github.com/BearGuy" style={{ color: "black"}}>
+                <i style={{fontSize: "2.5em"}} className="fa fa-github"></i></OutboundLink>
+                <OutboundLink href="https://instagram.com/s.peterkins" style={{ color: "black"}}>
+                <i style={{fontSize: "2.5em"}} className="fa fa-instagram"></i></OutboundLink>
+                <OutboundLink href="https://twitter.com/SPeterkins" style={{ color: "black"}}>
+                <i style={{fontSize: "2.5em"}} className="fa fa-twitter"></i></OutboundLink>
               </div>
             </div>
           </div>
@@ -43,7 +45,7 @@ export default ({ data }) => {
           <p>Queen's University Engineering Physics Graduate.
           Javascript Developer turned Blockchain Developer.
           Core Developer of the <a href="http://saito.tech">Saito Network. </a>
-          Travelling Asia, currently working in 🇨🇳Beijing</p>
+          Travelling Asia, currently working in 🇭🇰Hong Kong</p>
 
 
           {/* <h2>Skills</h2>

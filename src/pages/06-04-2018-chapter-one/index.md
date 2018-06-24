@@ -1,7 +1,7 @@
 ---
 path: "/blog/blockchain-in-beijing"
 date: "2018-06-06T12:30:30.000Z"
-title: "Blockchain in Beijing - Introduction"
+title: "Blockchain in Beijing"
 image: "blog/chapter1/ritan_park_over_water.jpg"
 ---
 ![Ritan Park, Beijing](/blog/chapter1/panaroma_ritan_park.jpg)
