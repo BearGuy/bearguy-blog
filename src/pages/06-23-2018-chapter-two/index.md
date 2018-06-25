@@ -2,7 +2,7 @@
 path: "/blog/saitos-little-helper"
 date: "2018-06-24T12:30:30.000Z"
 title: "Saito's Little Helper"
-image: "https://lh3.googleusercontent.com/kA7QUv26Z4rScTbJDJ7hqgwCqcPO7RikG8aOqVrB4M0KY98BWuz-4BLzkSyf-sSsUpGQVV1eQCiyElntZqsg5gAzxbAyoskVv0f1cI7xsDCwlahhTOtJDdTfIR-XGQLj8YTsX-MyY-Jd7a4FtpmMs5cz3vowm_CAarlKxly2pYm6C8BFWHz_jAAoksRbK9yCBSM52TlrNk2jJR4PO2knBaUR_2ZIqTjC1ZRhAhGsnnAf-s_il7YRkZNCCHHY6dNNd8mI0-amYsQmCYBdc_eRVG5tzUsawJnaJiQa3v3fUirYofM1I8GO7hv6FKColhDfCNfqxY59yZfxnW6jP1xtFSOKMSAG9-ItvBssGAE7wXIKg8ofsmWFN7RYDWjEY5D7o1zMabtwXX-3nZViZHMz7wwq0DRQmVJpTvNvqewmVfbDssPZBtQxOzPo5cViCBjBCFDX9df4ymkvU2X0glAf8RUp0pNwokaUfxW42NkxBV2YASEZY4SrK4LoDivk_eRk3jABhYtXplw4hrxyqQEES-ljcnLz9YEEx4RyeOGt6x-D2pUdk9Bl1_SZni-i7T6nVBqZmF32n9Llm4e0gPW2dGOs9Yn-ZDeEjpMBRW0=w2142-h1606-no"
+image: "https://lh3.googleusercontent.com/Hvo7XukHdfF__Q9j4vFoP8v0CK0ek6fQ4XpqRTXe0r08bXIqj04-qRySp7vZcFlasLUprXUKEmxnkMI8Mg=w586-h440-rw"
 ---
 
 ![Mansion Beijing](https://lh3.googleusercontent.com/ioNFUqFwOUBfnofwzm0Otmhy5f17Jx64XvOtxeR7YPBy1x9MLsL2VdR8LEC1NKEoK9eKNL9emZnYsUg7AqK-bnuxlJc3Zkn7orEBIU98005tM3ZhKVjgApUslN721Tz7xQyUsURMMXBHJf-I_GTVMLuYBBf3vF6koK1tGljpFZvkIQgKg1KnE_GjW7HgeZ82BNcFmtz69wBu0ay4QDfF56-3XNIVXidADEZC-nOo-Z0mBKQWnOnMJhn6Hg719yF2qgVksgYIqOwB_3iU7Vh61TLkh-dyTRbSkfD8Nkpb8DAV_-2vo8mB68Od87-bI28kUv5q-7j1FWlLanSCPu51p4Q-4LWg2tYIO0IbN9l86RrgDazDHh-IbbvYsvmsDjiQKjzJNUV99n8DH40OoPqQGLBa0EIED8nLPCPD9AEyKa07svCAgAQ0pOA50iUcX9tMUKPArtEp0h_-vJCTr9uaB7MXNI4oN4nijV3OCXdXFrRyvX4HBWHPmEHBxOQMbZvfhszK9a4wnW1OA_HizMWetU6s2p_YfUc8LM3CxQCiF8Ppyoe-ahMjAGaBrEITgPt9zzOhDz0Gwt9EcbPi_jTNYrZbQmT48gNowKgO4VU=w2880-h1382-no)
@@ -22,6 +22,8 @@ My work up til now has consisted of building modules on our demo network, includ
 
 
 ![Beijing Buildings](https://lh3.googleusercontent.com/ZAZalx1eHUHIT6a72q46qtqdbEhO1CFEOS1SJsFKyPAP3UmaspLCUGITfEepaal5uJWADbUmR0Bv0E7VduGMlxoY3rs82f0MToKySm-vEEdywBBsb57l9rXXVJgWdJyrGfwpSP3uq5XqaV08HGMR37U11l5dgNfannL6DC5MCCpKcElsL7iK_iZmfjMix9a_fnFgB1apthf1Bw7MBGVQdqYd0ZKzfOY4_ODC9dJURgPklfwBe75g0CyGxLN9fY2hNjE5fVGUuBIalZzs7ik-6jQvDsPFy_EzH1eWyxW9wL0zPurSle6QCBKOlTtcSus7XNKvGBBy3zByoK_DzifxV3k7Lwe3TNRFdNH6u--WsrkY0IH1neMlBu0FSqTPkDr_EjdPzuXRaWyiRD6z6xIPout6L8tkV17O30fMOG0xytDgavr9JcrnhVf9IwDgMplw1JDlYKgI-Tgw_PThdenuwVg1p3xel6oDqmx5I-4s_ybIrkWNhW46y5eWBAIwkw40zIrpNGVDJz17FlyIr5YbOLfw4-QA94p_uBh7vE7_o3TOmbI8l9rO9hOHI3LqzR6gfGrYCxyVaE4jrul6KBPCboZgaB1EjCHP_kInXvU=w2142-h1606-no)
+
+https://lh3.googleusercontent.com/2AnI3ko8Nar-qfzMzj1HIoNyhg7ieS7AHQVGDCyJq-i-ZNmStifrPmdB54OgxEtW4nAQfcAZzrYFIg=w448-h336-no
 
 [Saito](http://saito.tech) is not the only thing that I'm falling in love with in Beijing. While there are many ways to get around the city, unequivocally a.k.a the Platonic ideal of transportation in Beijing is cycling. Period. It's one of the greatest cities in the world to bike in as many of the major streets (and minor streets) have a bike lane specifically for two-wheeled vehicles, both manual and motorized. As well, these rent-a-bike services all integrate extremely well with the WeChat Payment gateways I discussed last time. I adore the freedom 1 yuan, a Mobike, and the open roads of Beijing have given me.
 
