@@ -2,10 +2,11 @@
 path: "/blog/saitos-little-helper"
 date: "2018-06-24T12:30:30.000Z"
 title: "Saito's Little Helper"
-image: "https://lh3.googleusercontent.com/Hvo7XukHdfF__Q9j4vFoP8v0CK0ek6fQ4XpqRTXe0r08bXIqj04-qRySp7vZcFlasLUprXUKEmxnkMI8Mg=w586-h440-rw"
+image: "https://drive.google.com/uc?export=view&id=1jlSWBNX6ucH_85ZlYbnYq_PLj2-pD_nO"
+
 ---
 
-![Mansion Beijing](https://lh3.googleusercontent.com/ioNFUqFwOUBfnofwzm0Otmhy5f17Jx64XvOtxeR7YPBy1x9MLsL2VdR8LEC1NKEoK9eKNL9emZnYsUg7AqK-bnuxlJc3Zkn7orEBIU98005tM3ZhKVjgApUslN721Tz7xQyUsURMMXBHJf-I_GTVMLuYBBf3vF6koK1tGljpFZvkIQgKg1KnE_GjW7HgeZ82BNcFmtz69wBu0ay4QDfF56-3XNIVXidADEZC-nOo-Z0mBKQWnOnMJhn6Hg719yF2qgVksgYIqOwB_3iU7Vh61TLkh-dyTRbSkfD8Nkpb8DAV_-2vo8mB68Od87-bI28kUv5q-7j1FWlLanSCPu51p4Q-4LWg2tYIO0IbN9l86RrgDazDHh-IbbvYsvmsDjiQKjzJNUV99n8DH40OoPqQGLBa0EIED8nLPCPD9AEyKa07svCAgAQ0pOA50iUcX9tMUKPArtEp0h_-vJCTr9uaB7MXNI4oN4nijV3OCXdXFrRyvX4HBWHPmEHBxOQMbZvfhszK9a4wnW1OA_HizMWetU6s2p_YfUc8LM3CxQCiF8Ppyoe-ahMjAGaBrEITgPt9zzOhDz0Gwt9EcbPi_jTNYrZbQmT48gNowKgO4VU=w2880-h1382-no)
+![Mansion Beijing](https://drive.google.com/uc?export=view&id=19SxdfCCJz2QWPUvbxNEN2O4r8p3SruDB)
 
 
 Hey everyone, glad to have you back. Better late than never, as they always say. Anyways, it's been a hectic couple of weeks for me in Beijing, the last couple of days I've been in Hong Kong hanging out at [WeWork](https://www.wework.com/buildings/tower-535--hong-kong--china) with my nose to the grind stone. I've been here for 4 days and I'll be headed to Singapore with David for the next 5. I thought I'd share a bit more about Beijing before I move on to talking about my time in Hong Kong, which will be most of July.
@@ -20,10 +21,7 @@ My work up til now has consisted of building modules on our demo network, includ
 
 >_The most important value a start-up must have is laser focus on what really matters whether that's funding, building, or showcasing your value as soon as possible_
 
-
-![Beijing Buildings](https://lh3.googleusercontent.com/ZAZalx1eHUHIT6a72q46qtqdbEhO1CFEOS1SJsFKyPAP3UmaspLCUGITfEepaal5uJWADbUmR0Bv0E7VduGMlxoY3rs82f0MToKySm-vEEdywBBsb57l9rXXVJgWdJyrGfwpSP3uq5XqaV08HGMR37U11l5dgNfannL6DC5MCCpKcElsL7iK_iZmfjMix9a_fnFgB1apthf1Bw7MBGVQdqYd0ZKzfOY4_ODC9dJURgPklfwBe75g0CyGxLN9fY2hNjE5fVGUuBIalZzs7ik-6jQvDsPFy_EzH1eWyxW9wL0zPurSle6QCBKOlTtcSus7XNKvGBBy3zByoK_DzifxV3k7Lwe3TNRFdNH6u--WsrkY0IH1neMlBu0FSqTPkDr_EjdPzuXRaWyiRD6z6xIPout6L8tkV17O30fMOG0xytDgavr9JcrnhVf9IwDgMplw1JDlYKgI-Tgw_PThdenuwVg1p3xel6oDqmx5I-4s_ybIrkWNhW46y5eWBAIwkw40zIrpNGVDJz17FlyIr5YbOLfw4-QA94p_uBh7vE7_o3TOmbI8l9rO9hOHI3LqzR6gfGrYCxyVaE4jrul6KBPCboZgaB1EjCHP_kInXvU=w2142-h1606-no)
-
-https://lh3.googleusercontent.com/2AnI3ko8Nar-qfzMzj1HIoNyhg7ieS7AHQVGDCyJq-i-ZNmStifrPmdB54OgxEtW4nAQfcAZzrYFIg=w448-h336-no
+![Beijing Buildings](https://drive.google.com/uc?export=view&id=1nufp8qlgVFv9cYaZRgY07yHBke5PrD75)
 
 [Saito](http://saito.tech) is not the only thing that I'm falling in love with in Beijing. While there are many ways to get around the city, unequivocally a.k.a the Platonic ideal of transportation in Beijing is cycling. Period. It's one of the greatest cities in the world to bike in as many of the major streets (and minor streets) have a bike lane specifically for two-wheeled vehicles, both manual and motorized. As well, these rent-a-bike services all integrate extremely well with the WeChat Payment gateways I discussed last time. I adore the freedom 1 yuan, a Mobike, and the open roads of Beijing have given me.
 
@@ -31,10 +29,10 @@ https://lh3.googleusercontent.com/2AnI3ko8Nar-qfzMzj1HIoNyhg7ieS7AHQVGDCyJq-i-ZN
 
 My advice to Beijingers, don't take your transportation for granted. Cities, especially European ones, would kill to have the systems and infrastructure implemented to allow more cyclists on the road.
 
-![Forbidden City](https://lh3.googleusercontent.com/tfMSOpuzuIuo5ilEuELYJDFEw11Dxns0ciZcqFnMnETUofsOUYsPsDfD1JZ2pRcg5lB8i4ycGThuDVH5zWewaYZH2E0KiPDFSp6SUik-dnNhUVew0E2B8XU6QvrSSfpxA4EkQH66pF1d0Bxfm1gALyWmD2u4uzvwZNNIzMhNJzrLSeOQfD313d-oFkaWPI0VFJFkWVIydtzueMfONvut1OLzutHLfv1qL3rnUdD4CjEmL_qnnTDi9C8gunErDEBE33vGIjqM96FdW3SMjg6mllEkAg87FrZ5ZNfKx1NhCswG39BuLGPK4R4viQXA1uJEp0sL_M_AJ0ghW-Q5Ahmx-Q63-xDEyMrHTiivQ0hLJ91iZ6_ktiivLIhn1BS57wBb-WjClYEgIGjFuHfqjuch_Q-6LyMlHYyGtyC-2-ZcqxyKFhego6jOddeHca8zj5K55JIkLYhl3LhIaHqsgWHbuBvpIp_naAla8OTWfHnRuSsVOKbg2uTXEIZrktEUlWDAUl9vVXZp0Eqx28mIL7tHOAITfm70nGPc7XfkQFJ-L1HSPRerRM_UjDmnsSO9epdHcz00E8QF73ni7gjbsoYgfj-Ms8LWkDBqrfjUGYQ=w2880-h1580-no)
+![Forbidden City](https://drive.google.com/uc?export=view&id=1ymDC_7qLgAi_b1ZLcRNNCIBAlZqFh1RC)
 
 The magic of living in another country/city has not faded, even after a couple of weeks. The adventure of wandering the unknown means there is always a surprise hiding somewhere. This has included few unexpected encounters here in Beijing. The first encounter was meeting my first cousin once removed Dan for the first time. He was here in Beijing while he was directing [an opera by Wagner](https://opera.org.au/whatson/events/die-meistersinger-von-nurnberg-melbourne). I had a wonderful time discussing family, his journey to Europe, and even spending time with some of the cast members in which I had never felt more pedestrian and unsophisticated in my life.
 
 While I was in Beijing, at the same time a friend of mine from Queen's (my alma mater) was working at the law firm White & Case Beijing this summer. We had a nice time catching up, sharing stories, and hiking around [Jingshan Park](https://www.google.com/maps/place/Jingshan+Park/@39.9251029,116.3946546,17z/data=!3m1!4b1!4m5!3m4!1s0x35f052e0cf4da489:0x95549f0b9c7f635b!8m2!3d39.9250988!4d116.3968433) which overlooks the Forbidden City. It was a great coincidence to see my cousin while we were both here, but spending time with someone who I associate with Kingston and now meet in Beijing is surreal. All I can hope is just like my experiences here, the joys of connecting with people in far away lands doesn't fade either.
 
-![Guarding Dragon](https://lh3.googleusercontent.com/N6VSLr1mjhXnVhmqepjJ4zBpBzOozBMIGBKTrN1wlePVZNhRBjYV2lhcpGmkZ-Rj8GsO6Tf5VpNAENS5fJtf9mXIXeGB_Hn4eZaN0gTdkqtnExH15N-pe-IqUabI2DsWIQGHPVD2ZWYmmSZkoVulk9IuEOSUdNfngIvyjsfEA0oHs2tZbppnXmkug7vIUXU8-48OpNFRHw3ywzwaIP42AOmyMgr7FO3DJUTCj00whfH9DDZ4yMmT2LYx_TBy-S2dVnLmdQsz_ykLrcEGJ3_uznZbi8EFdI8B8h3kz4t46X00UI8l9CpxE3DlDrLOEQ56ICPPDb5eJ2DYdYYUvtn08sfbAj3Q7qiFi0_XUJK7M1-1-wJNXuvK-FjwIAwEfSS3AyNcp_cTtune4y4FtANg1lBWLsThuN46JHQ2ZhONmHnq1XoEKPbalnQ8yS2oUwFS1M0yXA4_xH6wKIp3AjOWszP2R12_aE7zg5SNvZPmav6BFqZu6AaJOASRV_k394NWWHiARtQUqD_14i-rWlG_Qcu8bgApEi2xYobQtVSyenXfIjNa2HDv6Ahn2-mIpoQsFLNMx05Zp6c2G-E_wc2A0lnUB1uYYmiXHRAdRs4=w1614-h1606-no)
+![Guarding Dragon](https://drive.google.com/uc?export=view&id=1y4kulvAot4EapHsjD0a9ITFxEBoy9CS5)
