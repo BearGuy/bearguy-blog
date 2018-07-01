@@ -22,7 +22,7 @@ h1 {
 }
 
 .profileImage {
-    background-image: url(../../static/DSC_1044.jpg);
+    background-image: url(https://d2eurtqqjrsekg.cloudfront.net/profile/DSC_1044_scaled.jpg);
     background-size: cover;
     background-position: -55px;
     border-radius:50% 50% 50% 50%;

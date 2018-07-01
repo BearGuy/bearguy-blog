@@ -2,11 +2,8 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Helmet from 'react-helmet'
 
-import Media from 'react-media'
-
 import Header from '../components/header'
 import Footer from '../components/footer'
-import Sidebar from '../components/Sidebar'
 
 import './index.css'
 import "../styles/layout-overide.css";

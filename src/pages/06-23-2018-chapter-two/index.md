@@ -2,11 +2,11 @@
 path: "/blog/saitos-little-helper"
 date: "2018-06-24T12:30:30.000Z"
 title: "Saito's Little Helper"
-image: "https://drive.google.com/uc?export=view&id=1jlSWBNX6ucH_85ZlYbnYq_PLj2-pD_nO"
+image: "https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/temple_of_heaven.jpg"
 
 ---
 
-![Mansion Beijing](https://drive.google.com/uc?export=view&id=19SxdfCCJz2QWPUvbxNEN2O4r8p3SruDB)
+![Mansion Beijing](https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/beijing_mansion.jpg)
 
 
 Hey everyone, glad to have you back. Better late than never, as they always say. Anyways, it's been a hectic couple of weeks for me in Beijing, the last couple of days I've been in Hong Kong hanging out at [WeWork](https://www.wework.com/buildings/tower-535--hong-kong--china) with my nose to the grind stone. I've been here for 4 days and I'll be headed to Singapore with David for the next 5. I thought I'd share a bit more about Beijing before I move on to talking about my time in Hong Kong, which will be most of July.
@@ -21,7 +21,7 @@ My work up til now has consisted of building modules on our demo network, includ
 
 >_The most important value a start-up must have is laser focus on what really matters whether that's funding, building, or showcasing your value as soon as possible_
 
-![Beijing Buildings](https://drive.google.com/uc?export=view&id=1nufp8qlgVFv9cYaZRgY07yHBke5PrD75)
+![Beijing Buildings](https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/beijing_buildings.jpg)
 
 [Saito](http://saito.tech) is not the only thing that I'm falling in love with in Beijing. While there are many ways to get around the city, unequivocally a.k.a the Platonic ideal of transportation in Beijing is cycling. Period. It's one of the greatest cities in the world to bike in as many of the major streets (and minor streets) have a bike lane specifically for two-wheeled vehicles, both manual and motorized. As well, these rent-a-bike services all integrate extremely well with the WeChat Payment gateways I discussed last time. I adore the freedom 1 yuan, a Mobike, and the open roads of Beijing have given me.
 
@@ -29,10 +29,10 @@ My work up til now has consisted of building modules on our demo network, includ
 
 My advice to Beijingers, don't take your transportation for granted. Cities, especially European ones, would kill to have the systems and infrastructure implemented to allow more cyclists on the road.
 
-![Forbidden City](https://drive.google.com/uc?export=view&id=1ymDC_7qLgAi_b1ZLcRNNCIBAlZqFh1RC)
+![Forbidden City](https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/forbidden_palace.jpg)
 
 The magic of living in another country/city has not faded, even after a couple of weeks. The adventure of wandering the unknown means there is always a surprise hiding somewhere. This has included few unexpected encounters here in Beijing. The first encounter was meeting my first cousin once removed Dan for the first time. He was here in Beijing while he was directing [an opera by Wagner](https://opera.org.au/whatson/events/die-meistersinger-von-nurnberg-melbourne). I had a wonderful time discussing family, his journey to Europe, and even spending time with some of the cast members in which I had never felt more pedestrian and unsophisticated in my life.
 
 While I was in Beijing, at the same time a friend of mine from Queen's (my alma mater) was working at the law firm White & Case Beijing this summer. We had a nice time catching up, sharing stories, and hiking around [Jingshan Park](https://www.google.com/maps/place/Jingshan+Park/@39.9251029,116.3946546,17z/data=!3m1!4b1!4m5!3m4!1s0x35f052e0cf4da489:0x95549f0b9c7f635b!8m2!3d39.9250988!4d116.3968433) which overlooks the Forbidden City. It was a great coincidence to see my cousin while we were both here, but spending time with someone who I associate with Kingston and now meet in Beijing is surreal. All I can hope is just like my experiences here, the joys of connecting with people in far away lands doesn't fade either.
 
-![Guarding Dragon](https://drive.google.com/uc?export=view&id=1y4kulvAot4EapHsjD0a9ITFxEBoy9CS5)
+![Guarding Dragon](https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/gaurding_dragon.jpg)
