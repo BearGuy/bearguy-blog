@@ -16,7 +16,9 @@ export default ({posts}) => {
           // <Link to={post.frontmatter.path} key={post.id}>
             <div className="blogPostCard" key={post.id}>
               <div>
-                <img src={post.frontmatter.image} />
+                <Link to={post.frontmatter.path}>
+                  <img src={post.frontmatter.image} />
+                </Link>
               </div>
 
               <div style={{margin: '10px'}}>
