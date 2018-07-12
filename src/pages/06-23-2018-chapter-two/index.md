@@ -2,7 +2,7 @@
 path: "/blog/saitos-little-helper"
 date: "2018-06-24T12:30:30.000Z"
 title: "Saito's Little Helper"
-image: "https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/temple_of_heaven.jpg"
+image: "https://d2eurtqqjrsekg.cloudfront.net/chapter2/compressed/temple_of_heaven_small.jpg"
 
 ---
 

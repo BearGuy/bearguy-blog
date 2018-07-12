@@ -2,7 +2,7 @@
 path: "/blog/a-tale-of-two-cities"
 date: "2018-07-08T12:30:30.000Z"
 title: "A Tale of Two Cities"
-image: "https://d2eurtqqjrsekg.cloudfront.net/chapter3/hk_cyberpunk.jpg"
+image: "https://d2eurtqqjrsekg.cloudfront.net/chapter3/hk_cyberpunk_small.jpg"
 
 ---
 

@@ -2,7 +2,7 @@
 path: "/blog/blockchain-in-beijing"
 date: "2018-06-06T12:30:30.000Z"
 title: "Blockchain in Beijing"
-image: "https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/ritan_park_over_water.jpg"
+image: "https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/ritan_park_over_water_small.jpg"
 ---
 ![Ritan Park, Beijing](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/panaroma_ritan_park.jpg)
 
