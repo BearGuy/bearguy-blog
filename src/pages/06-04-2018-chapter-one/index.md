@@ -26,7 +26,7 @@ I arrived in Beijijng on May 24th and it took me about a week to get over jetlag
 
 - Tonic water --> Tānglìshūi 汤力水
 - Waiter ---> Fúwùyuán 服务员
-- In a bag --> Dâ bāo 打包
+- To go --> Dâ bāo 打包
 - White rice --> báimî. 白米
 - I can't speak Chinese well --> Wô hànyû shuō by hâo 我汉语说不好
 

@@ -52,10 +52,11 @@ const transformPostFromPath = async (filePath, transformerPlugin) => {
   // https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-transformer-remark/src/extend-node-type.js
 
   try {
-    const siteUrl = `https://cmichel.io`
+    const siteUrl = `https://bearguy.io`
     const slug = utils.slugFromPath(filePath)
     const postUrl = url.resolve(siteUrl, `/${slug}`)
     const frontmatter = await getFrontmatter(filePath)
+    console.log(frontmatter);
 
     return new Promise((resolve, reject) => {
       new Remark()

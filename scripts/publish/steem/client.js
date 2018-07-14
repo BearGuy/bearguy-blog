@@ -4,7 +4,7 @@ const trim = require('lodash/trim')
 
 steem.api.setOptions({ url: `https://api.steemit.com` })
 
-const accountName = `cmichel`
+const accountName = `bearguy`
 const slugTransform = s => trim(s, '/').toLowerCase()
 
 const client = {

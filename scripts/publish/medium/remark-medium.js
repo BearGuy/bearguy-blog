@@ -38,7 +38,7 @@ const createReferenceToOriginalPost = postUrl => ({
       children: [
         {
           type: 'text',
-          value: 'cmichel.io',
+          value: 'bearguy.io',
         },
       ],
     },

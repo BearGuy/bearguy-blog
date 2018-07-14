@@ -12,6 +12,8 @@ const publishToSteem = async (pathsToPosts, dryRun) => {
         remarkSteem
       )
 
+      console.log("Transformed Post from Path STEEM")
+
       const { frontmatter, postUrl, content } = transformedPost
 
       if (dryRun) {
