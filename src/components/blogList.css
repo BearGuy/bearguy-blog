@@ -5,7 +5,7 @@
   grid-template-rows: auto 1fr;
 }
 
-.blog-post-content > p > a {
+.blog-post-content a {
   color: #a72eb3;
 }
 
