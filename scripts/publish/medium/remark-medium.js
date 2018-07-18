@@ -25,7 +25,7 @@ const createHorizontalRule = () => ({
   type: `thematicBreak`,
 })
 
-const createReferenceToOriginalPost = postUrl => ({
+const createReferenceToOriginalPost = slug => ({
   type: `paragraph`,
   children: [
     {
@@ -34,7 +34,7 @@ const createReferenceToOriginalPost = postUrl => ({
     },
     {
       type: 'link',
-      url: postUrl,
+      url: `https://bearguy.io${slug}`,
       children: [
         {
           type: 'text',
@@ -53,7 +53,8 @@ const createMediumFooter = siteUrl => ({
 })
 
 function attacher(options) {
-  const { siteUrl, postUrl, frontmatter: { title, featured } } = options
+  console.log(options)
+  const { siteUrl, frontmatter: { title, slug, featured } } = options
   return transformer
 
   function transformer(tree) {
@@ -63,7 +64,7 @@ function attacher(options) {
       createTitle(title),
       ...tree.children,
       createHorizontalRule(),
-      createReferenceToOriginalPost(postUrl),
+      createReferenceToOriginalPost(slug),
       createMediumFooter(siteUrl),
     ].filter(node => !!node)
   }

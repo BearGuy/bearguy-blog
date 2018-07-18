@@ -105,7 +105,7 @@ These are a lot of the popular projects with very strong communities and core te
 
 
 ##Conclusion:
-The blockchain space is an exciting field that has only just begun to sprout in the last couple of years. While I've mostly discussed crypto blockchain projects, there are many different network structures being experimented-with, and built as a part of the larger decentralized zeitgeist. I'd encourage everyone to take some time to explore other decentralized networks and paradigms. Overall the paradigms share a similar belief- they all believe decentralized networks are necessary for the future of mankind's evolution.
+The blockchain space is an exciting field that has only just begun to sprout in the last couple of years. While I've mostly discussed crypto blockchain projects, there are many different network structures being experimented-with, and built as a part of the larger decentralized zeitgeist. I'd encourage everyone to take some time to explore other decentralized networks and paradigms. Overall the paradigms share a similar belief; they all believe decentralized networks are necessary for the future of mankind's evolution.
 
 [Josh Wolfe](https://twitter.com/wolfejosh) has a great quote where he says, ["Either you buy the product or you are the product. We  want (and believe others will want) the utility of networks without being owned or pawned by them."](https://twitter.com/wolfejosh/status/938216365252595712?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E938216365252595712&ref_url=https%3A%2F%2Fmedium.com%2Fmedia%2Fc4c32681b5107db5cdf8c405dce7aad4%3FpostId%3D57f30de494f8)
 
