@@ -24,9 +24,6 @@ const markFactory = () => {
 }
 
 const removeFactory = nodes => (node, index, parent) => {
-  // console.log("NODE IN removeFactory: ", node)
-  // console.log("INDEX IN removeFactory: ", index)
-  // console.log("CALLING REMOVEFACTORY: ", parent)
   if (parent && nodes.indexOf(node) !== -1) {
     parent.children.splice(index, 1)
     return index
@@ -45,17 +42,15 @@ function attacher(options) {
   }
 
   function transformer(tree) {
-    console.log("FIRST TRANSFORMER: ", tree)
     const markNodeVisitor = markFactory()
     visit(tree, 'yaml', markNodeVisitor)
     visit(tree, removeFactory(markNodeVisitor.nodes))
 
-    console.log("SECOND TRANSFORMER: ", tree)
     console.log(`Rewriting image links ...`)
     visit(tree, 'image', replaceUrl)
     console.log(`Rewriting anchor links ...`)
     visit(tree, 'link', replaceUrl)
-    console.log("THIRD TRANSFORMER: ", tree)
+
   }
 }
 

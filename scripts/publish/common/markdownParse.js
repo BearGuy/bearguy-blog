@@ -56,7 +56,6 @@ const transformPostFromPath = async (filePath, transformerPlugin) => {
     const slug = utils.slugFromPath(filePath)
     const postUrl = url.resolve(siteUrl, `/${slug}`)
     const frontmatter = await getFrontmatter(filePath)
-    console.log(frontmatter);
 
     return new Promise((resolve, reject) => {
       new Remark()

@@ -46,11 +46,9 @@ const collectUrlsFactory = () => {
 
 function attacher(options) {
   const { siteUrl, postUrl, frontmatter: { image } } = options
-  console.log("THIS IS FEATURED: ", image);
   return transformer
 
   function transformer(tree, vfile) {
-    console.log("FIRST: ",tree)
     const imageUrlsVisitor = collectUrlsFactory()
     visit(tree, 'image', imageUrlsVisitor)
     const linkUrlsVisitor = collectUrlsFactory()
@@ -68,7 +66,6 @@ function attacher(options) {
     ]
     // additional data will be passed to the publish method along with
     // stringified markdown
-    console.log("SECOND: ", tree)
     vfile.data.images = imageUrlsVisitor.urls
     vfile.data.links = linkUrlsVisitor.urls
   }

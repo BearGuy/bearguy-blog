@@ -15,7 +15,7 @@ steem:
 - blockchain
 - decentralized
 - development
-- education
+- programming
 ---
 
 ![DISTRIBUTED NETWORKS](http://d2eurtqqjrsekg.cloudfront.net/public/causeway_bay_md.jpg)

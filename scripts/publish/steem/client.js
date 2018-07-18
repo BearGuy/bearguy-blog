@@ -71,7 +71,6 @@ const client = {
           start_permlink: lastPost.permlink,
           start_author: lastPost.author,
         }
-        // console.log(postSlugs.length, lastPost.permlink)
       }
     } while (result.length >= 100)
 
