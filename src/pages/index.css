@@ -102,6 +102,12 @@ h1 {
     justify-items: center;
 }
 
+.blog-post-container {
+    max-width: 675px;
+    justify-self: center;
+    text-align: justify;
+}
+
 blockquote > p > em {
     font-size: 1.25em;
     font-weight: bold;
