@@ -45,7 +45,7 @@ export default ({ data }) => {
           <p>Queen's University Engineering Physics Graduate.
           Javascript Developer turned Blockchain Developer.
           Core Developer of the <a href="http://saito.tech">Saito Network. </a>
-          Travelling Asia, currently working in 🇭🇰Hong Kong</p>
+          Travelling Asia, currently working in 🇨🇳 Beijing</p>
 
 
           {/* <h2>Skills</h2>
