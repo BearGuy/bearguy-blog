@@ -12,6 +12,9 @@ const client = {
   createPost({ content, frontmatter, postUrl }) {
     return new Promise((resolve, reject) => {
       mediumClient.getUser(function(err, user) {
+        if (err) {
+          console.log(err)
+        }
         mediumClient.createPost(
           {
             userId: user.id,
