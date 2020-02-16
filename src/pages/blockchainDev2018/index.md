@@ -3,7 +3,7 @@ path: "/blog/how-to-be-a-blockchain-dev-in-2018"
 date: "2018-07-17T12:30:30.000Z"
 title: "How To Be A Blockchain Dev In 2018"
 slug: "/blog/how-to-be-a-blockchain-dev-in-2018"
-image: "http://d2eurtqqjrsekg.cloudfront.net/public/causeway_bay_sml.jpeg"
+image: "https://cdn.k1nz.copublic/causeway_bay_sml.jpeg"
 medium:
 - Cryptocurrency
 - Blockchain
@@ -18,7 +18,7 @@ steem:
 - programming
 ---
 
-![DISTRIBUTED NETWORKS](http://d2eurtqqjrsekg.cloudfront.net/public/causeway_bay_md.jpg)
+![DISTRIBUTED NETWORKS](https://cdn.k1nz.copublic/causeway_bay_md.jpg)
 
 I'm positive that you've been exposed to the hype the last couple of months; it's practically unavoidable. Crypto, blockchain, decentralization, tokenization, smart contracts, distributed ledgers; perhaps you know what some of these words mean and others mean nothing to you. Several articles posted online are saying these technologies are changing the world as we know it. “The Web 2.0 dynasty is waning; the era of Web 3.0 is upon us.” You're told that you’d better be prepared for what's coming; after all, everyone knows that it's disrupt, or be disrupted.
 

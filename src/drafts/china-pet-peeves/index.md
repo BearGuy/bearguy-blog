@@ -3,7 +3,7 @@ path: "/blog/china-pet-peeves"
 date: "2018-10-07T12:30:30.000Z"
 title: "Things That Get On My Nerves In China"
 slug: "/blog/china-pet-peeves"
-image: "http://d2eurtqqjrsekg.cloudfront.net/public/causeway_bay_sml.jpeg"
+image: "https://cdn.k1nz.copublic/causeway_bay_sml.jpeg"
 medium:
 - China
 - Travel
