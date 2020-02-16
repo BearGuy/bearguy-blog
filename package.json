@@ -14,7 +14,7 @@
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-source-filesystem": "^1.5.32",
     "gatsby-transformer-remark": "^1.7.40",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.13",
     "react-helmet": "^5.2.0",
     "react-media": "^1.8.0"
   },
