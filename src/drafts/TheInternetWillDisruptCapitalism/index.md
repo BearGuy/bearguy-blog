@@ -3,7 +3,7 @@ path: "/blog/what-comes-after-capitalism"
 date: "2018-07-22T12:30:30.000Z"
 title: "What Comes After Capitalism And Why You Should Help"
 slug: "/blog/what-comes-after-capitalism"
-image: "https://cdn.k1nz.copublic/causeway_bay_sml.jpeg"
+image: "https://cdn.k1nz.co/public/causeway_bay_sml.jpeg"
 medium:
 - Cryptocurrency
 - Blockchain
