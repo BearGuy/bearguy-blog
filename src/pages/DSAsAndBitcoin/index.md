@@ -3,7 +3,7 @@ path: "/blog/dsas-and-bitcoin"
 date: "2018-11-11T12:30:30.000Z"
 title: "Domain Specific Architectures, Bitcoin, and the Future of Computing"
 slug: "/blog/dsas-and-bitcoin"
-image: "https://www.massuniting.org/wp-content/uploads/2017/11/mining1-1000x600.jpg"
+image: "https://cdn.k1nz.co/dsa-bitcoin/bitcoin_compute.jpg"
 medium:
 - Cryptocurrency
 - Blockchain
@@ -23,14 +23,13 @@ steem:
 People are quick to criticise that Bitcoin mining is taking up an immense amount of power globally (30 TW/hr). I don't know anyone who would say that this is ideal, however the Bitcoin network is highlighting an important change to how industrial compute is evolving generally in regards to energy consumption. With the rise of industrial bitcoin mining, many people have taken a very reactionary position towards these new implementations of computing architecture; denouncing it's inclusivity and perceiving it to be "centralized" and thus a negative for open access, decentralized networks. However, this is a regressive mindset which I perceive as lacking a wider analysis and understanding of the modern compute landscape. Here's why industrial Bitcoin mining showcases what the future of computing will look like, and why it's becoming increasingly necessary.
 
 ## The End of Computing Axioms
-![END OF AN ERA](https://www.eejournal.com/wp-content/uploads/2018/03/Death-of-Dennard-Scaling-and-Moores-Law.png)
+![END OF AN ERA](https://cdn.k1nz.co/dsa-bitcoin/death_of_denard_scaling.png)
 I'm sure that many of you have heard that [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law) has been slowing down the last couple of decades. Specifically, processor-performance improvement since 2015 has fallen to only 3% per year. It used to be the case that we could expect processors to double in speed every 1.5 to 3 years, now it takes 20 years. However, this is just the most recent wall that compute innovation has been running into the last couple of years. Before that, another rule that is already much less applicable is called [Dennard Scaling](https://en.wikipedia.org/wiki/Dennard_scaling). The law states that as transistors get smaller their power density stays constant, so that the power use of the processor stays in proportion with the area of said processor. This meant for a long time that power wasn't a concern in chip design, power usage remained constant as it would be spread equally around the extra transistors.
 
-![the end of dennard scaling](https://www.researchgate.net/profile/Luke_Shulenburger/publication/301650491/figure/fig24/AS:355250444750853@1461709714584/The-end-of-Dennard-Scaling-44.png)
-
+![the end of dennard scaling](https://cdn.k1nz.co/dsa-bitcoin/the_end_of_Dennard_Scaling.png)
 This law is becoming less and less applicable in modern day chip design. As the requirements for compute power rise, we're seeing that the amount of power needed by the chip is generally increasing. Today, you're standard i86 Intel processor will actually slow it's compute power down in order not to burn out! This was unheard of some years ago, but now it's a fairly common phenomena. Generally, energy usage has become a _*massive*_ issue in today's modern cloud computing systems. Everyone likes to point the finger at Bitcoin's massive usage of energy, but not a lot of people know that approximately _*25%*_ of computation done in parallel on your standard Intel chip is wasted.
 
-![](https://images.slideplayer.com/26/8678317/slides/slide_31.jpg)
+![wasted-work-in-i7](https://cdn.k1nz.co/dsa-bitcoin/wasted_work_in_i7.jpg)
 It's gotten to the point where as a software developer, if you're running a program on a 64 core machine and only 1% runs sequentially (i.e. not in parallel), it's equivalent of running your program on only a 40 core system! There's a tremendous amount of wasted energy that comes along with such a costly mistake. Without even factoring in [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law) to this equation, it should be clear that we're not only hitting limits with power but also with using parallelism as a trump card for performance. With these techniques becoming less effective, how are we supposed to meet the rising demands of compute power?
 
 ### The Rise of Domain Specific Architecture
@@ -41,8 +40,7 @@ In order to compete, miners have needed to create optimized hardware to mine blo
 
 ASIC architecture works effectively for something simple like hashing, but what about for more complicated computation? Google's compute needs are perhaps the most complex in the world, let alone for optimizing a hashing algorithm. Most of their products have become more and more reliant on AI, thus their biggest challenge has become handling machine learning at scale. In response, Google has created the TPU (Tensor Processing Unit), which accelerates DNN (Deep Neural Network) execution using a massive array of 65,536 multiply/accumulate (MAC) units on one piece of silicon. These puppies are pump out a whopping 92 tera opterations per second, which operates at speeds up to 30x faster than modern CPUs and 15x more than GPUs, while still using less power than either of them.
 
-![Google's TPU](https://regmedia.co.uk/2018/05/08/tpu.jpg)
-
+![Google's TPU](https://cdn.k1nz.co/dsa-bitcoin/tpu.jpg)
 Both of these designs are an example of the rise of Domain Specific Architecture as a change to computer systems that has become necessary to push the compute industry further. Due to the limitations in hardware advances, the only path left in improvement comes from limiting the scope of the hardware's operations in order to see increased performance. For blockchain networks, this are even greater incentives to increase performance to not only showcase the validity of emerging decentralized networks, but for the self-interest of those participating in the networks in the first place.
 
 

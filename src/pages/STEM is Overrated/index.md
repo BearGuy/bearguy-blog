@@ -3,7 +3,7 @@ path: "/blog/stem-is-overrated"
 date: "2018-11-18T12:30:30.000Z"
 title: "Stem is Overrated"
 slug: "/blog/stem-is-overrated"
-image: "https://www.cs.utexas.edu/sites/default/files/styles/large/public/blog/13229/shutterstock_129715637.jpg?itok=lRGlBaBW"
+image: "https://cdn.k1nz.co/stem-overrated/left_vs_right_brain.jpg"
 ---
 
 There's a lot that you can do with math, I've spent a large part of my entire life exploring the basics and just a little bit more. You can make discoveries about the universe, build engineering marvels, and create ways of connecting people that we thought was only possible in science fiction novels. I'm only mentioning basic application in that list, there are entire fields of study that are predicated on an a priori study of mathematics in its purist forms. Many of these are, and will continue to be, beyond my understanding. It's undeniable the usefulness that sort of theory and thinking brings our society. There's also a huge demand from the market to have more and more students enter these fields, as jobs in STEM fields continue to increase while enrollment rates in these programs remain steady. These incentives are rather enticing to many young people, who are facing an economic uncertainty that only their great grand parents could understand. For many there's an allure to problem solving, design, and the promise of innovation that comes with entering any of these fields. What also accompanies this is a sense of superiority that you get from comparing yourselves to students who also aren't in STEM. I know this firsthand, because I was one of those smug assholes. At my alma matter, this was taken even further as the engineers are known to dump on even the regular science and computer science students.
