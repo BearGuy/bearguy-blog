@@ -2,9 +2,9 @@
 path: "/blog/blockchain-in-beijing"
 date: "2018-06-06T12:30:30.000Z"
 title: "Blockchain in Beijing"
-image: "https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/ritan_park_over_water_small.jpg"
+image: "https://cdn.k1nz.co/chapter1/compressed/ritan_park_over_water_small.jpg"
 ---
-![Ritan Park, Beijing](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/panaroma_ritan_park.jpg)
+![Ritan Park, Beijing](https://cdn.k1nz.co/chapter1/compressed/panaroma_ritan_park.jpg)
 
 Hi, welcome to my blog. For those who don't know, I've been working in Beijing the last couple of weeks on a blockchain startup called [Saito](http://saito.tech). I've had a few people reach out to me and ask about what the experience has been like and how I got here, so in this post I'll explain how I got here and what I've been up to the past few days. I'm going to post here regularly to keep people updated on my travels and to inform people about what's happening in my life while I'm in Asia this summer.
 
@@ -18,7 +18,7 @@ I told Andrew I was interested in pursuing this further, and shortly thereafter 
 
 > _Saito is a big data blockchain that pays people proportional to the data they help move through the network._
 
-![Temple Gates](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/temple_gates.jpg)
+![Temple Gates](https://cdn.k1nz.co/chapter1/compressed/temple_gates.jpg)
 
 I became acquainted with the team (basically just the co-founders, [David Lancashire](https://www.linkedin.com/in/david-lancashire/) and [Richard Parris](https://www.linkedin.com/in/richard-parris/)) and had some chances to ask some questions about themselves and the project. Apparently those questions did the job; they decided that I was worthwhile enough to ship to Asia and be put to work.
 
@@ -36,15 +36,15 @@ Even I'm ashamed of my speaking ability, I really feel like I started to get com
 
 While I'm throwing some shade at my associates, I'm having a blast working with both David and Richard. David is the software architect; he created the project from scratch and has designed all of the economic incentives, protocols, and solidified the system in code. I have a lot to learn from him in terms of core Blockchain technology. Richard comes from a corporate networking background and is the glue holding the operation together. He's solely been responsible for all the managerial duties that this project has demanded (including HR and helping me get to Beijing). Both of them embody a healthy state of having "strong opinions loosely held". It's refreshing to work with smart, driven people whose egos don’t get in the way of progress.
 
-![Saito Team Photo](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/the_saito_team.png)
+![Saito Team Photo](https://cdn.k1nz.co/chapter1/compressed/the_saito_team.png)
 
 A typical day involves me waking up around 7:00am and starting my morning routine. I aim to get out the door by 8:30am, and once I'm outside I grab the first [Mobike](https://mobike.com/us/) I can find and jump right into the chaotic Beijing traffic. Beijing's probably the best cycling city in the world, with tons of bike and side lanes that allow you to get around the city faster than walking, and more efficiently (and probably still faster) than driving. For breakfast, I hunt down the nearest 建炳 ("Jian Bing” or Chinese Crepes) stall, grab 2, and head off to meet up with the team. We mostly work at this place called “Crave Cafe”. They’re a pretty great little place for VC’s and other independent workers to use as office space as they do their best to meet with clients, send emails, and in general work on building out their dreams all while drinking a decently priced cup of caffeine (just like back home!).
 
-![Cafe Groove](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/cafe_groove_wide.png)
+![Cafe Groove](https://cdn.k1nz.co/chapter1/compressed/cafe_groove_wide.png)
 
 After a solid 3 to 4 hours of coding and collaborating with David on some feature, the team along with Richard will go out to eat lunch (mostly at Szechuan restaurants) someplace outside the district. More than likely we’ll head West closer to the city's centre and work the rest of the afternoon at a different cafe or bar. After a few more hours of work, we'll normally grab dinner and a drink, where the topic of conversation ranges anywhere from technology, the humanities, or David passionately explaining the brilliance of Christopher Nolan and his use of water symbolism. After a period, we head our separate ways and I come home and procrastinate writing this blog.
 
-![Traditional Building](https://d2eurtqqjrsekg.cloudfront.net/chapter1/compressed/traditional_building.jpg)
+![Traditional Building](https://cdn.k1nz.co/chapter1/compressed/traditional_building.jpg)
 
 Right now, this is the current plan for where I'll be this summer:
 - **Beijing**: _Present - June 20th_
