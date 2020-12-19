@@ -32,7 +32,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "js-yaml": "^3.12.0",
+    "js-yaml": "^3.13.1",
     "medium-sdk": "^0.0.4",
     "prettier": "^1.12.0",
     "remark-frontmatter": "^1.2.0",
